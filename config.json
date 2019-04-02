@@ -1,0 +1,17 @@
+{
+  "liveSystem" : "https://codecamp.plentymarkets-cloud01.com/",
+  "pluginName" : "ItList",
+
+  "watchFilesForChange" : [
+    "resources/js/**"
+  ],
+
+  "loadJsFromCWD" : {
+    "enable" : true,
+    "localJsPath" : "resources/js"
+  },
+
+  "loadJsFromLocalMachine" : {
+    "enable" : true
+  }
+}
