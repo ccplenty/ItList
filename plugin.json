@@ -4,5 +4,6 @@
     "namespace"         :"ItList",
     "author"            :"PlentyDev AG - testPlugin",
     "type"              :"template",
-    "serviceProvider"   :"ItList\\Providers\\ItListServiceProvider"
+    "serviceProvider"   :"ItList\\Providers\\ItListServiceProvider",
+    "require"           : ["TopItems"]
 }
